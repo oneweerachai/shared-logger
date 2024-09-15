@@ -1,4 +1,4 @@
-module github.com/oneweerachai/shared/logger
+module github.com/oneweerachai/shared-logger
 
 go 1.22.1
 
